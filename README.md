@@ -1,4 +1,4 @@
-# 01 Interactive Fiction
+# 01-Interactive-Fiction
 The first project for C220, made on September 12th, 2020.
 
 A short interactive fiction game where you must escape a dungeon.
